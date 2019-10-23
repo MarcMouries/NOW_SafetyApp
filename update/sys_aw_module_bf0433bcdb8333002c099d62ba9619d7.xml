@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_module">
+    <sys_aw_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <content display_value="Inbox Module Content">8c1433bcdb8333002c099d62ba9619de</content>
+        <content_attrs/>
+        <content_component display_value="sn-inbox">c1fbc4bb77b31300c438c277d8106134</content_component>
+        <content_tag/>
+        <detail display_value="Inbox Module Detail">081433bcdb8333002c099d62ba9619e3</detail>
+        <detail_attrs/>
+        <detail_component display_value="sn-inbox-empty">ee222d2bff222300294153bd6338f113</detail_component>
+        <detail_tag/>
+        <hide_until_ready>false</hide_until_ready>
+        <icon>inbox-outline</icon>
+        <id>inbox</id>
+        <label>Inbox</label>
+        <order>200</order>
+        <roles/>
+        <sys_class_name>sys_aw_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-01 19:37:25</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>bf0433bcdb8333002c099d62ba9619d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>inbox</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Safety" source="x_367394_safety">c5f0f3b8db8333002c099d62ba961907</sys_package>
+        <sys_policy/>
+        <sys_props/>
+        <sys_scope display_value="Safety">c5f0f3b8db8333002c099d62ba961907</sys_scope>
+        <sys_update_name>sys_aw_module_bf0433bcdb8333002c099d62ba9619d7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-01 19:37:25</sys_updated_on>
+        <toolbar_button display_value="Inbox Button">c01433bcdb8333002c099d62ba9619d8</toolbar_button>
+        <type>master_detail</type>
+        <workspace_config display_value="Safety">c30433bcdb8333002c099d62ba961900</workspace_config>
+    </sys_aw_module>
+    <sys_variable_value action="delete_multiple" query="document_key=bf0433bcdb8333002c099d62ba9619d7"/>
+</record_update>

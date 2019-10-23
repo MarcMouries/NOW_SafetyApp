@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="asdf Item Stream">342152b4dbdb33002c099d62ba961945</item_stream>
+        <master_item display_value="asdf Master Item">fc21d2b4dbdb33002c099d62ba96194f</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>marc.mouries</sys_created_by>
+        <sys_created_on>2019-08-13 22:40:56</sys_created_on>
+        <sys_id>c921d2b4dbdb33002c099d62ba961955</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Safety" source="x_367394_safety">c5f0f3b8db8333002c099d62ba961907</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">c5f0f3b8db8333002c099d62ba961907</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_c921d2b4dbdb33002c099d62ba961955</sys_update_name>
+        <sys_updated_by>marc.mouries</sys_updated_by>
+        <sys_updated_on>2019-08-13 22:40:56</sys_updated_on>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>

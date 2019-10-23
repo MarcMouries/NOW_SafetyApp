@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cb_topic">
+    <sys_cb_topic action="INSERT_OR_UPDATE">
+        <applicability/>
+        <category display_value="Safety">be9598eddb9333002c099d62ba961921</category>
+        <connect_queue/>
+        <description/>
+        <flexible_conversation_switching>false</flexible_conversation_switching>
+        <graph>{
+  "goals": {
+    "704181b1444b49738ba63c9e7a78dc28": {
+      "id": "704181b1444b49738ba63c9e7a78dc28",
+      "trigger": {
+        "type": "primary"
+      },
+      "name": "primary",
+      "applicability": "",
+      "description": "",
+      "nodes": {
+        "50de954bd1e64c9b959e4351127999eb": {
+          "id": "50de954bd1e64c9b959e4351127999eb",
+          "stepType": "Start",
+          "name": "Start",
+          "greetingResponse": {
+            "mode": "simple",
+            "value": ""
+          }
+        },
+        "a2b2fec0fbe243adba6a7cbb16f29744": {
+          "id": "a2b2fec0fbe243adba6a7cbb16f29744",
+          "stepType": "TerminateGoal",
+          "name": "End",
+          "confirmationMessage": {
+            "mode": "simple",
+            "value": ""
+          }
+        },
+        "780556fa08344118bb303598a4e4e237": {
+          "id": "780556fa08344118bb303598a4e4e237",
+          "stepType": "Prompt",
+          "name": "chat_user_name",
+          "prompt": {
+            "value": "what is your name?",
+            "mode": "simple"
+          },
+          "confirmMessage": {
+            "value": "",
+            "mode": "simple"
+          },
+          "acknowledgeMsg": {
+            "value": "",
+            "mode": "simple"
+          },
+          "applicability": {
+            "value": "",
+            "mode": "query"
+          },
+          "optional": false,
+          "defaultValue": {
+            "value": "",
+            "mode": "simple"
+          },
+          "withNluUserInput": false,
+          "skipIfFulfilled": false,
+          "entity": "",
+          "variableId": "a820c52897554c289eec977ecd49f6c6"
+        },
+        "7d4bc3a935b44b4693b56d452e13ee21": {
+          "id": "7d4bc3a935b44b4693b56d452e13ee21",
+          "stepType": "TextOutput",
+          "name": "greet user",
+          "value": {
+            "value": "(function execute() {\n\n   /* Return a quoted string.  For example:\n\n       var result;\n       if (vaInputs.first_name == 'Bill') {\n           return gs.getMessage('hi there {0}', [vaInputs.first_name]);\n       } else {\n           return gs.getMessage('how are you {0}', [vaInputs.last_name]);\n       }\n    */\n  // return 'how are you ' +    vaInputs.chat_user_name + ' ?';\n   return gs.getMessage('how are you {0}', [vaInputs.chat_user_name]);\n})()\n",
+            "mode": "script"
+          },
+          "applicability": {
+            "value": "",
+            "mode": "query"
+          }
+        }
+      },
+      "edges": [
+        {
+          "id": "26baaea70411434bac38d41a10424ae2",
+          "edgeType": "Edge",
+          "source": "50de954bd1e64c9b959e4351127999eb",
+          "target": "780556fa08344118bb303598a4e4e237",
+          "sourcePort": "",
+          "targetPort": ""
+        },
+        {
+          "id": "d7e3c1e5ccd84667a35bcf59f6ed3a98",
+          "edgeType": "Edge",
+          "source": "780556fa08344118bb303598a4e4e237",
+          "target": "7d4bc3a935b44b4693b56d452e13ee21",
+          "sourcePort": "",
+          "targetPort": ""
+        },
+        {
+          "id": "e0e5d7cb2f4744e696ba9e62fb7c46fc",
+          "edgeType": "Edge",
+          "source": "7d4bc3a935b44b4693b56d452e13ee21",
+          "target": "a2b2fec0fbe243adba6a7cbb16f29744",
+          "sourcePort": "",
+          "targetPort": ""
+        }
+      ]
+    }
+  },
+  "graph_api_version": "1.0.13",
+  "variables": {
+    "ec56d4bdfc1540d9840c5451296fd9dc": {
+      "id": "ec56d4bdfc1540d9840c5451296fd9dc",
+      "name": "LiveAgent_application",
+      "value": {
+        "mode": "simple",
+        "value": ""
+      },
+      "varType": "script",
+      "category": "vaVars"
+    },
+    "a820c52897554c289eec977ecd49f6c6": {
+      "id": "a820c52897554c289eec977ecd49f6c6",
+      "name": "chat_user_name",
+      "label": "Chat_user_name",
+      "varType": "string",
+      "category": "vaInputs"
+    }
+  }
+}</graph>
+        <key_phrases>safety</key_phrases>
+        <live_agent>false</live_agent>
+        <name>Safety</name>
+        <nlu_intent/>
+        <nlu_model/>
+        <nlu_provider/>
+        <roles/>
+        <sys_class_name>sys_cb_topic</sys_class_name>
+        <sys_created_by>marc.mouries</sys_created_by>
+        <sys_created_on>2019-08-15 21:39:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>a3369c21db1333002c099d62ba961921</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Safety</sys_name>
+        <sys_package display_value="Safety" source="x_367394_safety">c5f0f3b8db8333002c099d62ba961907</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">c5f0f3b8db8333002c099d62ba961907</sys_scope>
+        <sys_update_name>sys_cb_topic_a3369c21db1333002c099d62ba961921</sys_update_name>
+        <sys_updated_by>marc.mouries</sys_updated_by>
+        <sys_updated_on>2019-08-15 21:40:19</sys_updated_on>
+        <variables/>
+    </sys_cb_topic>
+    <sys_variable_value action="delete_multiple" query="document_key=a3369c21db1333002c099d62ba961921"/>
+</record_update>

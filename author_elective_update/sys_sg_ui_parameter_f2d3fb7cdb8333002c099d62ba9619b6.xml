@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="DELETE">
+        <button display_value="Edit Button (Issues)">bed3fb7cdb8333002c099d62ba9619b3</button>
+        <button_parent_table>x_367394_safety_issues</button_parent_table>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>source_field</default_value_type>
+        <field_name>short_description</field_name>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>text</input_type>
+        <mandatory>false</mandatory>
+        <multi_select>false</multi_select>
+        <name>Short description</name>
+        <order/>
+        <parameter_type>button</parameter_type>
+        <placeholder/>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field>short_description</source_field>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-01 19:36:32</sys_created_on>
+        <sys_id>f2d3fb7cdb8333002c099d62ba9619b6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Short description</sys_name>
+        <sys_package display_value="Safety" source="x_367394_safety">c5f0f3b8db8333002c099d62ba961907</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">c5f0f3b8db8333002c099d62ba961907</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_f2d3fb7cdb8333002c099d62ba9619b6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-01 19:36:32</sys_updated_on>
+        <table_name>x_367394_safety_issues</table_name>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="delete_multiple" query="documentkey=f2d3fb7cdb8333002c099d62ba9619b6"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safety">c5f0f3b8db8333002c099d62ba961907</application>
+        <file_path/>
+        <instance_id>54d9f89fdb7caf00439ef70fbf961989</instance_id>
+        <instance_name>dev71814</instance_name>
+        <name>sys_sg_ui_parameter_f2d3fb7cdb8333002c099d62ba9619b6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter"><sys_sg_ui_parameter action="INSERT_OR_UPDATE"><button display_value="Edit Button (Issues)">bed3fb7cdb8333002c099d62ba9619b3</button><button_parent_table>x_367394_safety_issues</button_parent_table><carried>false</carried><constant/><default_value/><default_value_type>source_field</default_value_type><field_name>short_description</field_name><input_source>user</input_source><input_style>inline</input_style><input_type>text</input_type><mandatory>false</mandatory><multi_select>false</multi_select><name>Short description</name><order/><parameter_type>button</parameter_type><placeholder/><screen/><search_type>starts_with</search_type><source_field>short_description</source_field><sys_class_name>sys_sg_ui_parameter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-01 19:36:32</sys_created_on><sys_id>f2d3fb7cdb8333002c099d62ba9619b6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Short description</sys_name><sys_package display_value="Safety" source="x_367394_safety">c5f0f3b8db8333002c099d62ba961907</sys_package><sys_policy/><sys_scope display_value="Safety">c5f0f3b8db8333002c099d62ba961907</sys_scope><sys_update_name>sys_sg_ui_parameter_f2d3fb7cdb8333002c099d62ba9619b6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-08-01 19:36:32</sys_updated_on><table_name>x_367394_safety_issues</table_name></sys_sg_ui_parameter><sys_translated_text action="delete_multiple" query="documentkey=f2d3fb7cdb8333002c099d62ba9619b6"/></record_update>]]></payload>
+        <payload_hash>-647491040</payload_hash>
+        <record_name>Short description</record_name>
+        <reverted_from/>
+        <source>c9f0f3b8db8333002c099d62ba961909</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-01 19:36:32</sys_created_on>
+        <sys_id>8fd3fb7cdb8333002c099d62ba9619d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16c4eaf153f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-01 19:36:32</sys_updated_on>
+        <type>UI parameter</type>
+        <update_guid>0bd3fb7c0b833300dfc30e16bcaac4d1</update_guid>
+        <update_guid_history>0bd3fb7c0b833300dfc30e16bcaac4d1:-647491040</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-01 19:40:42</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_ui_parameter">sys_sg_ui_parameter</sys_db_object>
+        <sys_id>6acb7685e4744834b387e6ba9ecd1631</sys_id>
+        <sys_metadata>f2d3fb7cdb8333002c099d62ba9619b6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Short description</sys_name>
+        <sys_package display_value="Safety" source="x_367394_safety">c5f0f3b8db8333002c099d62ba961907</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Safety">c5f0f3b8db8333002c099d62ba961907</sys_scope>
+        <sys_scope_delete display_value="">0ba70b217eef45498122021351c5bd51</sys_scope_delete>
+        <sys_update_name>sys_sg_ui_parameter_f2d3fb7cdb8333002c099d62ba9619b6</sys_update_name>
+        <sys_update_version display_value="sys_sg_ui_parameter_f2d3fb7cdb8333002c099d62ba9619b6">8fd3fb7cdb8333002c099d62ba9619d1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-01 19:40:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

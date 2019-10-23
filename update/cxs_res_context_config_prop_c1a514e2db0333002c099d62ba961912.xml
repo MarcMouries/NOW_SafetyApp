@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cxs_res_context_config_prop">
+    <cxs_res_context_config_prop action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <choices/>
+        <cxs_res_context_config display_value="knowledge">49a514e2db0333002c099d62ba96190e</cxs_res_context_config>
+        <default_value/>
+        <description>A Condition to apply before searching. The condition must be an encoded query.</description>
+        <id>knowledge_sr.conditions</id>
+        <name>Condition</name>
+        <sys_class_name>cxs_res_context_config_prop</sys_class_name>
+        <sys_created_by>marc.mouries</sys_created_by>
+        <sys_created_on>2019-08-06 13:55:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c1a514e2db0333002c099d62ba961912</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Condition</sys_name>
+        <sys_package display_value="Safety" source="x_367394_safety">c5f0f3b8db8333002c099d62ba961907</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">c5f0f3b8db8333002c099d62ba961907</sys_scope>
+        <sys_update_name>cxs_res_context_config_prop_c1a514e2db0333002c099d62ba961912</sys_update_name>
+        <sys_updated_by>marc.mouries</sys_updated_by>
+        <sys_updated_on>2019-08-06 13:55:01</sys_updated_on>
+        <type>conditions</type>
+        <value/>
+    </cxs_res_context_config_prop>
+</record_update>

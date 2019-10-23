@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="DELETE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_367394_safety_task</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-01 19:45:55</sys_created_on>
+        <sys_id>94067370dbc333002c099d62ba961948</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_367394_safety_task</sys_name>
+        <sys_package display_value="Safety" source="x_367394_safety">c5f0f3b8db8333002c099d62ba961907</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">c5f0f3b8db8333002c099d62ba961907</sys_scope>
+        <sys_update_name>ua_table_licensing_config_94067370dbc333002c099d62ba961948</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-01 19:45:55</sys_updated_on>
+    </ua_table_licensing_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safety">c5f0f3b8db8333002c099d62ba961907</application>
+        <file_path/>
+        <instance_id>54d9f89fdb7caf00439ef70fbf961989</instance_id>
+        <instance_name>dev71814</instance_name>
+        <name>ua_table_licensing_config_94067370dbc333002c099d62ba961948</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>x_367394_safety_task</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-01 19:45:55</sys_created_on><sys_id>94067370dbc333002c099d62ba961948</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_367394_safety_task</sys_name><sys_package display_value="Safety" source="x_367394_safety">c5f0f3b8db8333002c099d62ba961907</sys_package><sys_policy/><sys_scope display_value="Safety">c5f0f3b8db8333002c099d62ba961907</sys_scope><sys_update_name>ua_table_licensing_config_94067370dbc333002c099d62ba961948</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-08-01 19:45:55</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+        <payload_hash>2044076714</payload_hash>
+        <record_name>x_367394_safety_task</record_name>
+        <reverted_from/>
+        <source>c9f0f3b8db8333002c099d62ba961909</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-01 19:45:55</sys_created_on>
+        <sys_id>94067370dbc333002c099d62ba96194a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16c4eb7a9950000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-01 19:45:55</sys_updated_on>
+        <type>Table Subscription Configuration</type>
+        <update_guid>dc06737086c333003cd961ede25a3749</update_guid>
+        <update_guid_history>dc06737086c333003cd961ede25a3749:2044076714</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>marc.mouries</sys_created_by>
+        <sys_created_on>2019-08-18 16:01:00</sys_created_on>
+        <sys_db_object display_value="" name="ua_table_licensing_config">ua_table_licensing_config</sys_db_object>
+        <sys_id>887fd8db8865433a9cf689c38eb1e2c4</sys_id>
+        <sys_metadata>94067370dbc333002c099d62ba961948</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_367394_safety_task</sys_name>
+        <sys_package display_value="Safety" source="x_367394_safety">c5f0f3b8db8333002c099d62ba961907</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Safety">c5f0f3b8db8333002c099d62ba961907</sys_scope>
+        <sys_scope_delete display_value="">0ba70b217eef45498122021351c5bd51</sys_scope_delete>
+        <sys_update_name>ua_table_licensing_config_94067370dbc333002c099d62ba961948</sys_update_name>
+        <sys_update_version display_value="ua_table_licensing_config_94067370dbc333002c099d62ba961948">94067370dbc333002c099d62ba96194a</sys_update_version>
+        <sys_updated_by>marc.mouries</sys_updated_by>
+        <sys_updated_on>2019-08-18 16:01:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

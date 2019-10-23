@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install">
+    <sys_push_notif_app_install action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <last_registered_on>2019-08-19 01:10:49</last_registered_on>
+        <sys_class_name>sys_push_notif_app_install</sys_class_name>
+        <sys_created_by>marc.mouries</sys_created_by>
+        <sys_created_on>2019-08-13 20:51:19</sys_created_on>
+        <sys_id>1b0835fcdb1b33002c099d62ba96195b</sys_id>
+        <sys_mod_count>17</sys_mod_count>
+        <sys_name>24FF93DCF25FAC021E17B0D018D8CF68B04A646717E1EFEC909B8BB658B63A6B</sys_name>
+        <sys_package display_value="Safety" source="x_367394_safety">c5f0f3b8db8333002c099d62ba961907</sys_package>
+        <sys_policy/>
+        <sys_push_application_id display_value="ServiceNow Mobile Application">05ed2fb177002300258da2e2c81061c2</sys_push_application_id>
+        <sys_push_platform_id display_value="Apple">20e71f30ff0002009738ffffffffff6b</sys_push_platform_id>
+        <sys_scope display_value="Safety">c5f0f3b8db8333002c099d62ba961907</sys_scope>
+        <sys_update_name>sys_push_notif_app_install_1b0835fcdb1b33002c099d62ba96195b</sys_update_name>
+        <sys_updated_by>marc.mouries</sys_updated_by>
+        <sys_updated_on>2019-08-19 01:10:49</sys_updated_on>
+        <sys_user_id display_value="Marc Mouries">cd6c9fc1db0333002c099d62ba961957</sys_user_id>
+        <token>24FF93DCF25FAC021E17B0D018D8CF68B04A646717E1EFEC909B8BB658B63A6B</token>
+    </sys_push_notif_app_install>
+</record_update>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_list">
+    <sys_aw_list action="DELETE">
+        <active>true</active>
+        <category display_value="Issues">a70433bcdb8333002c099d62ba961918</category>
+        <columns>assigned_to,category,due_date,location,number,opened_by,priority,short_description,state,sys_created_by,sys_created_on,sys_id,sys_mod_count,sys_tags,sys_updated_by,sys_updated_on</columns>
+        <condition/>
+        <groups/>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_aw_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-01 19:37:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>730433bcdb8333002c099d62ba9619a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Safety" source="x_367394_safety">c5f0f3b8db8333002c099d62ba961907</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">c5f0f3b8db8333002c099d62ba961907</sys_scope>
+        <sys_update_name>sys_aw_list_730433bcdb8333002c099d62ba9619a5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-01 19:37:24</sys_updated_on>
+        <table>x_367394_safety_issues</table>
+        <title>All</title>
+        <workspace display_value="Safety">c30433bcdb8333002c099d62ba961900</workspace>
+    </sys_aw_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safety">c5f0f3b8db8333002c099d62ba961907</application>
+        <file_path/>
+        <instance_id>54d9f89fdb7caf00439ef70fbf961989</instance_id>
+        <instance_name>dev71814</instance_name>
+        <name>sys_aw_list_730433bcdb8333002c099d62ba9619a5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_list"><sys_aw_list action="INSERT_OR_UPDATE"><active>true</active><category display_value="Issues">a70433bcdb8333002c099d62ba961918</category><columns>assigned_to,category,due_date,location,number,opened_by,priority,short_description,state,sys_created_by,sys_created_on,sys_id,sys_mod_count,sys_tags,sys_updated_by,sys_updated_on</columns><condition/><groups/><order>100</order><roles/><sys_class_name>sys_aw_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-01 19:37:24</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>730433bcdb8333002c099d62ba9619a5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>All</sys_name><sys_overrides/><sys_package display_value="Safety" source="x_367394_safety">c5f0f3b8db8333002c099d62ba961907</sys_package><sys_policy/><sys_scope display_value="Safety">c5f0f3b8db8333002c099d62ba961907</sys_scope><sys_update_name>sys_aw_list_730433bcdb8333002c099d62ba9619a5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-08-01 19:37:24</sys_updated_on><table>x_367394_safety_issues</table><title>All</title><workspace display_value="Safety">c30433bcdb8333002c099d62ba961900</workspace></sys_aw_list></record_update>]]></payload>
+        <payload_hash>-1868991382</payload_hash>
+        <record_name>All</record_name>
+        <reverted_from/>
+        <source>c9f0f3b8db8333002c099d62ba961909</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-01 19:37:24</sys_created_on>
+        <sys_id>770433bcdb8333002c099d62ba9619a7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16c4eafe1020000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-01 19:37:24</sys_updated_on>
+        <type>Workspace List</type>
+        <update_guid>bf0433bc9083330082142298a51799a6</update_guid>
+        <update_guid_history>bf0433bc9083330082142298a51799a6:-1868991382</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-01 19:40:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_aw_list">sys_aw_list</sys_db_object>
+        <sys_id>16d99c7ffa924fcb82a3f6e86bd39c89</sys_id>
+        <sys_metadata>730433bcdb8333002c099d62ba9619a5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_package display_value="Safety" source="x_367394_safety">c5f0f3b8db8333002c099d62ba961907</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Safety">c5f0f3b8db8333002c099d62ba961907</sys_scope>
+        <sys_scope_delete display_value="">0ba70b217eef45498122021351c5bd51</sys_scope_delete>
+        <sys_update_name>sys_aw_list_730433bcdb8333002c099d62ba9619a5</sys_update_name>
+        <sys_update_version display_value="sys_aw_list_730433bcdb8333002c099d62ba9619a5">770433bcdb8333002c099d62ba9619a7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-01 19:40:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

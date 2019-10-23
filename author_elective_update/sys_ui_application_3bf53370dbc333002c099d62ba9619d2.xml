@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="DELETE">
+        <active>true</active>
+        <hint/>
+        <name>Issues</name>
+        <order/>
+        <roles>x_367394_safety.safety_task_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-01 19:45:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3bf53370dbc333002c099d62ba9619d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Issues</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Safety" source="x_367394_safety">c5f0f3b8db8333002c099d62ba961907</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">c5f0f3b8db8333002c099d62ba961907</sys_scope>
+        <sys_update_name>sys_ui_application_3bf53370dbc333002c099d62ba9619d2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-01 19:45:53</sys_updated_on>
+    </sys_ui_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safety">c5f0f3b8db8333002c099d62ba961907</application>
+        <file_path/>
+        <instance_id>54d9f89fdb7caf00439ef70fbf961989</instance_id>
+        <instance_name>dev71814</instance_name>
+        <name>sys_ui_application_3bf53370dbc333002c099d62ba9619d2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application"><sys_ui_application action="INSERT_OR_UPDATE"><active>true</active><hint/><name>Issues</name><order/><roles>x_367394_safety.safety_task_user</roles><sys_class_name>sys_ui_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-01 19:45:53</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3bf53370dbc333002c099d62ba9619d2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Issues</sys_name><sys_overrides/><sys_package display_value="Safety" source="x_367394_safety">c5f0f3b8db8333002c099d62ba961907</sys_package><sys_policy/><sys_scope display_value="Safety">c5f0f3b8db8333002c099d62ba961907</sys_scope><sys_update_name>sys_ui_application_3bf53370dbc333002c099d62ba9619d2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-08-01 19:45:53</sys_updated_on></sys_ui_application></record_update>]]></payload>
+        <payload_hash>207233471</payload_hash>
+        <record_name>Issues</record_name>
+        <reverted_from/>
+        <source>c9f0f3b8db8333002c099d62ba961909</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-01 19:45:53</sys_created_on>
+        <sys_id>7ff53370dbc333002c099d62ba9619d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16c4eb7a47a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-01 19:45:53</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>b7f53370c7c3330003b3252059e1ead4</update_guid>
+        <update_guid_history>b7f53370c7c3330003b3252059e1ead4:207233471</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>marc.mouries</sys_created_by>
+        <sys_created_on>2019-08-15 01:18:01</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_application">sys_ui_application</sys_db_object>
+        <sys_id>0e65ca7fba77407c82caeb98788bad10</sys_id>
+        <sys_metadata>3bf53370dbc333002c099d62ba9619d2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Issues</sys_name>
+        <sys_package display_value="Safety" source="x_367394_safety">c5f0f3b8db8333002c099d62ba961907</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Safety">c5f0f3b8db8333002c099d62ba961907</sys_scope>
+        <sys_scope_delete display_value="">0ba70b217eef45498122021351c5bd51</sys_scope_delete>
+        <sys_update_name>sys_ui_application_3bf53370dbc333002c099d62ba9619d2</sys_update_name>
+        <sys_update_version display_value="sys_ui_application_3bf53370dbc333002c099d62ba9619d2">7ff53370dbc333002c099d62ba9619d4</sys_update_version>
+        <sys_updated_by>marc.mouries</sys_updated_by>
+        <sys_updated_on>2019-08-15 01:18:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

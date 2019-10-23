@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-01 19:35:15</sys_created_on>
+        <sys_id>4c93777cdb8333002c099d62ba961910</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_367394_safety_issues.x_367394_safety.developer</sys_name>
+        <sys_package display_value="Safety" source="x_367394_safety">c5f0f3b8db8333002c099d62ba961907</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">c5f0f3b8db8333002c099d62ba961907</sys_scope>
+        <sys_security_acl display_value="x_367394_safety_issues">4093777cdb8333002c099d62ba96190d</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_4c93777cdb8333002c099d62ba961910</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-01 19:35:15</sys_updated_on>
+        <sys_user_role display_value="x_367394_safety.developer" name="x_367394_safety.developer">0f127f30db0333002c099d62ba961961</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safety">c5f0f3b8db8333002c099d62ba961907</application>
+        <file_path/>
+        <instance_id>54d9f89fdb7caf00439ef70fbf961989</instance_id>
+        <instance_name>dev71814</instance_name>
+        <name>sys_security_acl_role_4c93777cdb8333002c099d62ba961910</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-01 19:35:15</sys_created_on><sys_id>4c93777cdb8333002c099d62ba961910</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_367394_safety_issues.x_367394_safety.developer</sys_name><sys_package display_value="Safety" source="x_367394_safety">c5f0f3b8db8333002c099d62ba961907</sys_package><sys_policy/><sys_scope display_value="Safety">c5f0f3b8db8333002c099d62ba961907</sys_scope><sys_security_acl display_value="x_367394_safety_issues">4093777cdb8333002c099d62ba96190d</sys_security_acl><sys_update_name>sys_security_acl_role_4c93777cdb8333002c099d62ba961910</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-08-01 19:35:15</sys_updated_on><sys_user_role display_value="x_367394_safety.developer" name="x_367394_safety.developer">0f127f30db0333002c099d62ba961961</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>1857222658</payload_hash>
+        <record_name>x_367394_safety_issues.x_367394_safety.developer</record_name>
+        <reverted_from/>
+        <source>c9f0f3b8db8333002c099d62ba961909</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-01 19:35:15</sys_created_on>
+        <sys_id>8493777cdb8333002c099d62ba961914</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16c4eade76c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-01 19:35:15</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>cc93777ca58333008948e762865f3d13</update_guid>
+        <update_guid_history>cc93777ca58333008948e762865f3d13:1857222658</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_367394_safety_issues.x_367394_safety.developer">23c43bfcdb8333002c099d62ba961940</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-01 19:40:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>2173f1aa49944bb6b8cd418f720bb151</sys_id>
+        <sys_metadata>4c93777cdb8333002c099d62ba961910</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_367394_safety_issues.x_367394_safety.developer</sys_name>
+        <sys_package display_value="Safety" source="x_367394_safety">c5f0f3b8db8333002c099d62ba961907</sys_package>
+        <sys_parent display_value="">4093777cdb8333002c099d62ba96190d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Safety">c5f0f3b8db8333002c099d62ba961907</sys_scope>
+        <sys_scope_delete display_value="">0ba70b217eef45498122021351c5bd51</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_4c93777cdb8333002c099d62ba961910</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_4c93777cdb8333002c099d62ba961910">8493777cdb8333002c099d62ba961914</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-01 19:40:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

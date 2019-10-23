@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="DELETE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description> Issues</description>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <hide_filters>false</hide_filters>
+        <icon display_value="icon-Address-Book">aed377f8db8333002c099d62ba961910</icon>
+        <item_view/>
+        <name>Issuess</name>
+        <order/>
+        <parent/>
+        <parent_table/>
+        <roles_override/>
+        <style>regular</style>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-01 19:36:32</sys_created_on>
+        <sys_id>bad377f8db8333002c099d62ba961915</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Issuess</sys_name>
+        <sys_package display_value="Safety" source="x_367394_safety">c5f0f3b8db8333002c099d62ba961907</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">c5f0f3b8db8333002c099d62ba961907</sys_scope>
+        <sys_update_name>sys_sg_list_screen_bad377f8db8333002c099d62ba961915</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-01 19:36:32</sys_updated_on>
+    </sys_sg_list_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=bad377f8db8333002c099d62ba961915"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safety">c5f0f3b8db8333002c099d62ba961907</application>
+        <file_path/>
+        <instance_id>54d9f89fdb7caf00439ef70fbf961989</instance_id>
+        <instance_name>dev71814</instance_name>
+        <name>sys_sg_list_screen_bad377f8db8333002c099d62ba961915</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen"><sys_sg_list_screen action="INSERT_OR_UPDATE"><application_roles/><available_offline>false</available_offline><data_item/><description> Issues</description><dynamic_prefetch_count/><fetch_type>not_required</fetch_type><hidden>false</hidden><hide_filters>false</hide_filters><icon display_value="icon-Address-Book">aed377f8db8333002c099d62ba961910</icon><item_view/><name>Issuess</name><order/><parent/><parent_table/><roles_override/><style>regular</style><sys_class_name>sys_sg_list_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-01 19:36:32</sys_created_on><sys_id>bad377f8db8333002c099d62ba961915</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Issuess</sys_name><sys_package display_value="Safety" source="x_367394_safety">c5f0f3b8db8333002c099d62ba961907</sys_package><sys_policy/><sys_scope display_value="Safety">c5f0f3b8db8333002c099d62ba961907</sys_scope><sys_update_name>sys_sg_list_screen_bad377f8db8333002c099d62ba961915</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-08-01 19:36:32</sys_updated_on></sys_sg_list_screen><sys_translated_text action="delete_multiple" query="documentkey=bad377f8db8333002c099d62ba961915"/></record_update>]]></payload>
+        <payload_hash>-394067327</payload_hash>
+        <record_name>Issuess</record_name>
+        <reverted_from/>
+        <source>c9f0f3b8db8333002c099d62ba961909</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-01 19:36:33</sys_created_on>
+        <sys_id>9bd33f7cdb8333002c099d62ba961909</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16c4eaf18ab0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-01 19:36:33</sys_updated_on>
+        <type>List screen</type>
+        <update_guid>17d33f7c4e833300ad9790e0d00c2809</update_guid>
+        <update_guid_history>17d33f7c4e833300ad9790e0d00c2809:-394067327</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>marc.mouries</sys_created_by>
+        <sys_created_on>2019-08-13 21:18:14</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_list_screen">sys_sg_list_screen</sys_db_object>
+        <sys_id>3cdd6f96601b4ca0ac230ad82fda9640</sys_id>
+        <sys_metadata>bad377f8db8333002c099d62ba961915</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Issuess</sys_name>
+        <sys_package display_value="Safety" source="x_367394_safety">c5f0f3b8db8333002c099d62ba961907</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Safety">c5f0f3b8db8333002c099d62ba961907</sys_scope>
+        <sys_scope_delete display_value="">0ba70b217eef45498122021351c5bd51</sys_scope_delete>
+        <sys_update_name>sys_sg_list_screen_bad377f8db8333002c099d62ba961915</sys_update_name>
+        <sys_update_version display_value="sys_sg_list_screen_bad377f8db8333002c099d62ba961915">9bd33f7cdb8333002c099d62ba961909</sys_update_version>
+        <sys_updated_by>marc.mouries</sys_updated_by>
+        <sys_updated_on>2019-08-13 21:18:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

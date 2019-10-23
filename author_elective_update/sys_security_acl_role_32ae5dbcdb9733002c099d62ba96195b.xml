@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>marc.mouries</sys_created_by>
+        <sys_created_on>2019-08-13 19:00:42</sys_created_on>
+        <sys_id>32ae5dbcdb9733002c099d62ba96195b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_attachment.public</sys_name>
+        <sys_package display_value="Safety" source="x_367394_safety">c5f0f3b8db8333002c099d62ba961907</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">c5f0f3b8db8333002c099d62ba961907</sys_scope>
+        <sys_security_acl display_value="sys_attachment">848e99bcdb9733002c099d62ba961909</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_32ae5dbcdb9733002c099d62ba96195b</sys_update_name>
+        <sys_updated_by>marc.mouries</sys_updated_by>
+        <sys_updated_on>2019-08-13 19:00:42</sys_updated_on>
+        <sys_user_role display_value="public" name="public">b0593b350a0a0aa7001d689e4542dc28</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safety">c5f0f3b8db8333002c099d62ba961907</application>
+        <file_path/>
+        <instance_id>54d9f89fdb7caf00439ef70fbf961989</instance_id>
+        <instance_name>dev71814</instance_name>
+        <name>sys_security_acl_role_32ae5dbcdb9733002c099d62ba96195b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>marc.mouries</sys_created_by><sys_created_on>2019-08-13 19:00:42</sys_created_on><sys_id>32ae5dbcdb9733002c099d62ba96195b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sys_attachment.public</sys_name><sys_package display_value="Safety" source="x_367394_safety">c5f0f3b8db8333002c099d62ba961907</sys_package><sys_policy/><sys_scope display_value="Safety">c5f0f3b8db8333002c099d62ba961907</sys_scope><sys_security_acl display_value="sys_attachment">848e99bcdb9733002c099d62ba961909</sys_security_acl><sys_update_name>sys_security_acl_role_32ae5dbcdb9733002c099d62ba96195b</sys_update_name><sys_updated_by>marc.mouries</sys_updated_by><sys_updated_on>2019-08-13 19:00:42</sys_updated_on><sys_user_role display_value="public" name="public">b0593b350a0a0aa7001d689e4542dc28</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>1216226834</payload_hash>
+        <record_name>sys_attachment.public</record_name>
+        <reverted_from/>
+        <source>c9f0f3b8db8333002c099d62ba961909</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>marc.mouries</sys_created_by>
+        <sys_created_on>2019-08-13 19:00:42</sys_created_on>
+        <sys_id>b6bed5fcdb9733002c099d62ba96193f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16c8c5a94ce0000001</sys_recorded_at>
+        <sys_updated_by>marc.mouries</sys_updated_by>
+        <sys_updated_on>2019-08-13 19:00:42</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>febed5fc949733002bec03c9f145a43e</update_guid>
+        <update_guid_history>febed5fc949733002bec03c9f145a43e:1216226834</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="sys_attachment.public">af82c778dbdf33002c099d62ba9619b1</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>marc.mouries</sys_created_by>
+        <sys_created_on>2019-08-14 02:16:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>45dfb870c0d944699043ba9060e44589</sys_id>
+        <sys_metadata>32ae5dbcdb9733002c099d62ba96195b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_attachment.public</sys_name>
+        <sys_package display_value="Safety" source="x_367394_safety">c5f0f3b8db8333002c099d62ba961907</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Safety">c5f0f3b8db8333002c099d62ba961907</sys_scope>
+        <sys_scope_delete display_value="">0ba70b217eef45498122021351c5bd51</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_32ae5dbcdb9733002c099d62ba96195b</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_32ae5dbcdb9733002c099d62ba96195b">b6bed5fcdb9733002c099d62ba96193f</sys_update_version>
+        <sys_updated_by>marc.mouries</sys_updated_by>
+        <sys_updated_on>2019-08-14 02:16:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

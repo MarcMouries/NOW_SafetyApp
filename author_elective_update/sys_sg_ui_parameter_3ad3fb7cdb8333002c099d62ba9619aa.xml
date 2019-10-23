@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="DELETE">
+        <button display_value="New Button (Issues)">7ed3fb7cdb8333002c099d62ba9619a7</button>
+        <button_parent_table>x_367394_safety_issues</button_parent_table>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>source_field</default_value_type>
+        <field_name>priority</field_name>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>text</input_type>
+        <mandatory>false</mandatory>
+        <multi_select>false</multi_select>
+        <name>Priority</name>
+        <order/>
+        <parameter_type>button</parameter_type>
+        <placeholder/>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field/>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-01 19:36:32</sys_created_on>
+        <sys_id>3ad3fb7cdb8333002c099d62ba9619aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Priority</sys_name>
+        <sys_package display_value="Safety" source="x_367394_safety">c5f0f3b8db8333002c099d62ba961907</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">c5f0f3b8db8333002c099d62ba961907</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_3ad3fb7cdb8333002c099d62ba9619aa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-01 19:36:32</sys_updated_on>
+        <table_name>x_367394_safety_issues</table_name>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="delete_multiple" query="documentkey=3ad3fb7cdb8333002c099d62ba9619aa"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safety">c5f0f3b8db8333002c099d62ba961907</application>
+        <file_path/>
+        <instance_id>54d9f89fdb7caf00439ef70fbf961989</instance_id>
+        <instance_name>dev71814</instance_name>
+        <name>sys_sg_ui_parameter_3ad3fb7cdb8333002c099d62ba9619aa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter"><sys_sg_ui_parameter action="INSERT_OR_UPDATE"><button display_value="New Button (Issues)">7ed3fb7cdb8333002c099d62ba9619a7</button><button_parent_table>x_367394_safety_issues</button_parent_table><carried>false</carried><constant/><default_value/><default_value_type>source_field</default_value_type><field_name>priority</field_name><input_source>user</input_source><input_style>inline</input_style><input_type>text</input_type><mandatory>false</mandatory><multi_select>false</multi_select><name>Priority</name><order/><parameter_type>button</parameter_type><placeholder/><screen/><search_type>starts_with</search_type><source_field/><sys_class_name>sys_sg_ui_parameter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-01 19:36:32</sys_created_on><sys_id>3ad3fb7cdb8333002c099d62ba9619aa</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Priority</sys_name><sys_package display_value="Safety" source="x_367394_safety">c5f0f3b8db8333002c099d62ba961907</sys_package><sys_policy/><sys_scope display_value="Safety">c5f0f3b8db8333002c099d62ba961907</sys_scope><sys_update_name>sys_sg_ui_parameter_3ad3fb7cdb8333002c099d62ba9619aa</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-08-01 19:36:32</sys_updated_on><table_name>x_367394_safety_issues</table_name></sys_sg_ui_parameter><sys_translated_text action="delete_multiple" query="documentkey=3ad3fb7cdb8333002c099d62ba9619aa"/></record_update>]]></payload>
+        <payload_hash>1835309206</payload_hash>
+        <record_name>Priority</record_name>
+        <reverted_from/>
+        <source>c9f0f3b8db8333002c099d62ba961909</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-01 19:36:32</sys_created_on>
+        <sys_id>83d3fb7cdb8333002c099d62ba9619cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16c4eaf14e20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-01 19:36:32</sys_updated_on>
+        <type>UI parameter</type>
+        <update_guid>0fd3fb7c30833300c7fe12ad6d2ee7cb</update_guid>
+        <update_guid_history>0fd3fb7c30833300c7fe12ad6d2ee7cb:1835309206</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-01 19:40:42</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_ui_parameter">sys_sg_ui_parameter</sys_db_object>
+        <sys_id>035ebb2d61184d9c81a5463a784e8439</sys_id>
+        <sys_metadata>3ad3fb7cdb8333002c099d62ba9619aa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Priority</sys_name>
+        <sys_package display_value="Safety" source="x_367394_safety">c5f0f3b8db8333002c099d62ba961907</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Safety">c5f0f3b8db8333002c099d62ba961907</sys_scope>
+        <sys_scope_delete display_value="">0ba70b217eef45498122021351c5bd51</sys_scope_delete>
+        <sys_update_name>sys_sg_ui_parameter_3ad3fb7cdb8333002c099d62ba9619aa</sys_update_name>
+        <sys_update_version display_value="sys_sg_ui_parameter_3ad3fb7cdb8333002c099d62ba9619aa">83d3fb7cdb8333002c099d62ba9619cc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-01 19:40:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

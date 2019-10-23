@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_367394_safety.Public Attachments</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>Public Attachments</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>marc.mouries</sys_created_by>
+        <sys_created_on>2019-08-08 17:49:05</sys_created_on>
+        <sys_id>434edb03db4333002c099d62ba96194e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_367394_safety.Public Attachments</sys_name>
+        <sys_package display_value="Safety" source="x_367394_safety">c5f0f3b8db8333002c099d62ba961907</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">c5f0f3b8db8333002c099d62ba961907</sys_scope>
+        <sys_update_name>sys_user_role_434edb03db4333002c099d62ba96194e</sys_update_name>
+        <sys_updated_by>marc.mouries</sys_updated_by>
+        <sys_updated_on>2019-08-08 17:49:05</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safety">c5f0f3b8db8333002c099d62ba961907</application>
+        <file_path/>
+        <instance_id>54d9f89fdb7caf00439ef70fbf961989</instance_id>
+        <instance_name>dev71814</instance_name>
+        <name>sys_user_role_434edb03db4333002c099d62ba96194e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_367394_safety.Public Attachments</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>Public Attachments</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>marc.mouries</sys_created_by><sys_created_on>2019-08-08 17:49:05</sys_created_on><sys_id>434edb03db4333002c099d62ba96194e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_367394_safety.Public Attachments</sys_name><sys_package display_value="Safety" source="x_367394_safety">c5f0f3b8db8333002c099d62ba961907</sys_package><sys_policy/><sys_scope display_value="Safety">c5f0f3b8db8333002c099d62ba961907</sys_scope><sys_update_name>sys_user_role_434edb03db4333002c099d62ba96194e</sys_update_name><sys_updated_by>marc.mouries</sys_updated_by><sys_updated_on>2019-08-08 17:49:05</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>678266362</payload_hash>
+        <record_name>x_367394_safety.Public Attachments</record_name>
+        <reverted_from/>
+        <source>c9f0f3b8db8333002c099d62ba961909</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>marc.mouries</sys_created_by>
+        <sys_created_on>2019-08-08 17:49:06</sys_created_on>
+        <sys_id>516e1fcfdb0333002c099d62ba961979</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16c72593ab90000001</sys_recorded_at>
+        <sys_updated_by>marc.mouries</sys_updated_by>
+        <sys_updated_on>2019-08-08 17:49:06</sys_updated_on>
+        <type>Role</type>
+        <update_guid>596e1fcf0c0333001217735caf0e0478</update_guid>
+        <update_guid_history>596e1fcf0c0333001217735caf0e0478:678266362</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_367394_safety.Public Attachments">4bde9743db4333002c099d62ba961907</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>marc.mouries</sys_created_by>
+        <sys_created_on>2019-08-08 17:51:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>005af529aa6d4b4280008c6a3c4d8729</sys_id>
+        <sys_metadata>434edb03db4333002c099d62ba96194e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_367394_safety.Public Attachments</sys_name>
+        <sys_package display_value="Safety" source="x_367394_safety">c5f0f3b8db8333002c099d62ba961907</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Safety">c5f0f3b8db8333002c099d62ba961907</sys_scope>
+        <sys_scope_delete display_value="">0ba70b217eef45498122021351c5bd51</sys_scope_delete>
+        <sys_update_name>sys_user_role_434edb03db4333002c099d62ba96194e</sys_update_name>
+        <sys_update_version display_value="sys_user_role_434edb03db4333002c099d62ba96194e">516e1fcfdb0333002c099d62ba961979</sys_update_version>
+        <sys_updated_by>marc.mouries</sys_updated_by>
+        <sys_updated_on>2019-08-08 17:51:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

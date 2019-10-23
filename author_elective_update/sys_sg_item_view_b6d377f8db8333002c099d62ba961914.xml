@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="DELETE">
+        <data_item/>
+        <dependency_fields>assigned_to,category,due_date,location,number,opened_by</dependency_fields>
+        <item_view_json>{"Children":[{"Children":[{"Children":[{"CornerRadius":2,"CellId":"assigned_to","TextAlignment":"Center","MaxLines":1,"studio_template_field_id":"E1","Width":100,"Height":21,"Font":{"Weight":"semibold","Size":13},"Text":"","TextColor":"#293e40","BackgroundColor":"#f1f1f1","Type":"Text"}],"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Margin":{"Right":12},"Type":"ViewGroup"},{"Children":[{"CellId":"category","TextAlignment":"Right","MaxLines":1,"studio_template_field_id":"E2","Font":{"Weight":"regular","Size":13},"Text":"","TextColor":"#7d8a8c","Type":"Text"}],"Orientation":"Vertical","Alignment":"Right","Distribution":"Auto","Type":"ViewGroup"}],"Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Equal","Type":"ViewGroup"},{"CellId":"due_date","TextAlignment":"Left","MaxLines":2,"studio_template_field_id":"E3","Font":{"Weight":"regular","Size":18},"Text":"","TextColor":"#293e40","Margin":{"Top":9},"Type":"Text"},{"Children":[{"Children":[{"TextAlignment":"Left","MaxLines":1,"studio_template_field_id":"E4","Font":{"Weight":"regular","Size":13},"studio_template_is_label":true,"Text":"Location","TextColor":"#7d8a8c","Margin":{"Right":8},"Type":"Text"},{"CornerRadius":11,"CellId":"number","Scaling":"Fill","studio_template_field_id":"E5","Width":22,"Height":22,"Margin":{"Right":6},"Type":"Image"},{"CellId":"location","TextAlignment":"Left","MaxLines":1,"studio_template_field_id":"E4","Font":{"Weight":"regular","Size":13},"Text":"","TextColor":"#293e40","Type":"Text"}],"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Margin":{"Top":9},"Type":"ViewGroup"},{"Children":[{"TextAlignment":"Left","MaxLines":1,"studio_template_field_id":"E6","Font":{"Weight":"regular","Size":13},"studio_template_is_label":true,"Text":"Opened by","TextColor":"#7d8a8c","Margin":{"Right":8},"Type":"Text"},{"CellId":"opened_by","TextAlignment":"Left","MaxLines":1,"studio_template_field_id":"E6","Font":{"Weight":"regular","Size":13},"Text":"","TextColor":"#293e40","Type":"Text"}],"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Margin":{"Top":7},"Type":"ViewGroup"}],"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Type":"ViewGroup"}],"studio_card_id":"9599488923452300a8ed7f4fc7bf652e","Orientation":"Vertical","Alignment":"Stretch","Distribution":"Auto","Margin":{"Bottom":15,"Top":17},"Type":"ViewGroup"}</item_view_json>
+        <name>Issues List Screen Item View</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-01 19:36:31</sys_created_on>
+        <sys_id>b6d377f8db8333002c099d62ba961914</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Issues List Screen Item View</sys_name>
+        <sys_package display_value="Safety" source="x_367394_safety">c5f0f3b8db8333002c099d62ba961907</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">c5f0f3b8db8333002c099d62ba961907</sys_scope>
+        <sys_update_name>sys_sg_item_view_b6d377f8db8333002c099d62ba961914</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-01 19:36:31</sys_updated_on>
+        <table>x_367394_safety_issues</table>
+        <ui_styles/>
+    </sys_sg_item_view>
+    <sys_translated_text action="delete_multiple" query="documentkey=b6d377f8db8333002c099d62ba961914"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safety">c5f0f3b8db8333002c099d62ba961907</application>
+        <file_path/>
+        <instance_id>54d9f89fdb7caf00439ef70fbf961989</instance_id>
+        <instance_name>dev71814</instance_name>
+        <name>sys_sg_item_view_b6d377f8db8333002c099d62ba961914</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view"><sys_sg_item_view action="INSERT_OR_UPDATE"><data_item/><dependency_fields>assigned_to,category,due_date,location,number,opened_by</dependency_fields><item_view_json>{"Children":[{"Children":[{"Children":[{"CornerRadius":2,"CellId":"assigned_to","TextAlignment":"Center","MaxLines":1,"studio_template_field_id":"E1","Width":100,"Height":21,"Font":{"Weight":"semibold","Size":13},"Text":"","TextColor":"#293e40","BackgroundColor":"#f1f1f1","Type":"Text"}],"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Margin":{"Right":12},"Type":"ViewGroup"},{"Children":[{"CellId":"category","TextAlignment":"Right","MaxLines":1,"studio_template_field_id":"E2","Font":{"Weight":"regular","Size":13},"Text":"","TextColor":"#7d8a8c","Type":"Text"}],"Orientation":"Vertical","Alignment":"Right","Distribution":"Auto","Type":"ViewGroup"}],"Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Equal","Type":"ViewGroup"},{"CellId":"due_date","TextAlignment":"Left","MaxLines":2,"studio_template_field_id":"E3","Font":{"Weight":"regular","Size":18},"Text":"","TextColor":"#293e40","Margin":{"Top":9},"Type":"Text"},{"Children":[{"Children":[{"TextAlignment":"Left","MaxLines":1,"studio_template_field_id":"E4","Font":{"Weight":"regular","Size":13},"studio_template_is_label":true,"Text":"Location","TextColor":"#7d8a8c","Margin":{"Right":8},"Type":"Text"},{"CornerRadius":11,"CellId":"number","Scaling":"Fill","studio_template_field_id":"E5","Width":22,"Height":22,"Margin":{"Right":6},"Type":"Image"},{"CellId":"location","TextAlignment":"Left","MaxLines":1,"studio_template_field_id":"E4","Font":{"Weight":"regular","Size":13},"Text":"","TextColor":"#293e40","Type":"Text"}],"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Margin":{"Top":9},"Type":"ViewGroup"},{"Children":[{"TextAlignment":"Left","MaxLines":1,"studio_template_field_id":"E6","Font":{"Weight":"regular","Size":13},"studio_template_is_label":true,"Text":"Opened by","TextColor":"#7d8a8c","Margin":{"Right":8},"Type":"Text"},{"CellId":"opened_by","TextAlignment":"Left","MaxLines":1,"studio_template_field_id":"E6","Font":{"Weight":"regular","Size":13},"Text":"","TextColor":"#293e40","Type":"Text"}],"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Margin":{"Top":7},"Type":"ViewGroup"}],"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Type":"ViewGroup"}],"studio_card_id":"9599488923452300a8ed7f4fc7bf652e","Orientation":"Vertical","Alignment":"Stretch","Distribution":"Auto","Margin":{"Bottom":15,"Top":17},"Type":"ViewGroup"}</item_view_json><name>Issues List Screen Item View</name><short_description/><sys_class_name>sys_sg_item_view</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-01 19:36:31</sys_created_on><sys_id>b6d377f8db8333002c099d62ba961914</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Issues List Screen Item View</sys_name><sys_package display_value="Safety" source="x_367394_safety">c5f0f3b8db8333002c099d62ba961907</sys_package><sys_policy/><sys_scope display_value="Safety">c5f0f3b8db8333002c099d62ba961907</sys_scope><sys_update_name>sys_sg_item_view_b6d377f8db8333002c099d62ba961914</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-08-01 19:36:31</sys_updated_on><table>x_367394_safety_issues</table><ui_styles/></sys_sg_item_view><sys_translated_text action="delete_multiple" query="documentkey=b6d377f8db8333002c099d62ba961914"/></record_update>]]></payload>
+        <payload_hash>777309535</payload_hash>
+        <record_name>Issues List Screen Item View</record_name>
+        <reverted_from/>
+        <source>c9f0f3b8db8333002c099d62ba961909</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-01 19:40:43</sys_created_on>
+        <sys_id>50d47bfcdb8333002c099d62ba961928</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16c4eb2e9220000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-01 19:40:43</sys_updated_on>
+        <type>Item view</type>
+        <update_guid>43d3fb7ca38333009cc3df07cd3ac4e1</update_guid>
+        <update_guid_history>43d3fb7ca38333009cc3df07cd3ac4e1:162023524,43d3fb7ca38333009cc3df07cd3ac4e1:162023524</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-01 19:40:44</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_item_view">sys_sg_item_view</sys_db_object>
+        <sys_id>03252f26709f4843814ae4821e4200b9</sys_id>
+        <sys_metadata>b6d377f8db8333002c099d62ba961914</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Issues List Screen Item View</sys_name>
+        <sys_package display_value="Safety" source="x_367394_safety">c5f0f3b8db8333002c099d62ba961907</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Safety">c5f0f3b8db8333002c099d62ba961907</sys_scope>
+        <sys_scope_delete display_value="">0ba70b217eef45498122021351c5bd51</sys_scope_delete>
+        <sys_update_name>sys_sg_item_view_b6d377f8db8333002c099d62ba961914</sys_update_name>
+        <sys_update_version display_value="sys_sg_item_view_b6d377f8db8333002c099d62ba961914">50d47bfcdb8333002c099d62ba961928</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-01 19:40:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

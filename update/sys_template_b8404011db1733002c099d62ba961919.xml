@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_template">
+    <sys_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <global>false</global>
+        <group/>
+        <link_element/>
+        <name>Mobile Template Mylan</name>
+        <next/>
+        <next_child/>
+        <roles/>
+        <short_description>Mobile Template Mylan</short_description>
+        <show_on_template_bar>true</show_on_template_bar>
+        <stand_alone>false</stand_alone>
+        <sys_class_name>sys_template</sys_class_name>
+        <sys_created_by>marc.mouries</sys_created_by>
+        <sys_created_on>2019-08-15 01:28:24</sys_created_on>
+        <sys_id>b8404011db1733002c099d62ba961919</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Mobile Template Mylan</sys_name>
+        <sys_package display_value="Safety" source="x_367394_safety">c5f0f3b8db8333002c099d62ba961907</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">c5f0f3b8db8333002c099d62ba961907</sys_scope>
+        <sys_update_name>sys_template_b8404011db1733002c099d62ba961919</sys_update_name>
+        <sys_updated_by>marc.mouries</sys_updated_by>
+        <sys_updated_on>2019-08-15 01:28:24</sys_updated_on>
+        <table>sys_ui_mobile_theme</table>
+        <template>accent_color=teal^base_theme=default^name=Mylan^navigation_accent_color=#141B41^navigation_bar_color=#306BAC^navigation_bar_title=Mylan^EQ</template>
+        <user display_value="Marc Mouries">cd6c9fc1db0333002c099d62ba961957</user>
+        <view/>
+    </sys_template>
+</record_update>

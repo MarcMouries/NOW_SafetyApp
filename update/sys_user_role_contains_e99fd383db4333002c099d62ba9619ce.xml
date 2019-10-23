@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains/>
+        <role display_value="x_367394_safety.PublicAttachment" name="x_367394_safety.PublicAttachment">3a5fdf8bdb0333002c099d62ba961986</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>marc.mouries</sys_created_by>
+        <sys_created_on>2019-08-08 17:54:22</sys_created_on>
+        <sys_id>e99fd383db4333002c099d62ba9619ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_367394_safety.PublicAttachment</sys_name>
+        <sys_package display_value="Safety" source="x_367394_safety">c5f0f3b8db8333002c099d62ba961907</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">c5f0f3b8db8333002c099d62ba961907</sys_scope>
+        <sys_update_name>sys_user_role_contains_e99fd383db4333002c099d62ba9619ce</sys_update_name>
+        <sys_updated_by>marc.mouries</sys_updated_by>
+        <sys_updated_on>2019-08-08 17:54:22</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

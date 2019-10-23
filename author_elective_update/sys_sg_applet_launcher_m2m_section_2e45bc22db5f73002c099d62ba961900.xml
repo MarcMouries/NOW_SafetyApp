@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="DELETE">
+        <applet_launcher display_value="Safety">b6d377f8db8333002c099d62ba961911</applet_launcher>
+        <order>10</order>
+        <section display_value="My Issues">6265f462db5f73002c099d62ba9619db</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>marc.mouries</sys_created_by>
+        <sys_created_on>2019-08-19 02:30:10</sys_created_on>
+        <sys_id>2e45bc22db5f73002c099d62ba961900</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Safety" source="x_367394_safety">c5f0f3b8db8333002c099d62ba961907</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">c5f0f3b8db8333002c099d62ba961907</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_2e45bc22db5f73002c099d62ba961900</sys_update_name>
+        <sys_updated_by>marc.mouries</sys_updated_by>
+        <sys_updated_on>2019-08-19 02:46:45</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safety">c5f0f3b8db8333002c099d62ba961907</application>
+        <file_path/>
+        <instance_id>54d9f89fdb7caf00439ef70fbf961989</instance_id>
+        <instance_name>dev71814</instance_name>
+        <name>sys_sg_applet_launcher_m2m_section_2e45bc22db5f73002c099d62ba961900</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section"><sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE"><applet_launcher display_value="Safety">b6d377f8db8333002c099d62ba961911</applet_launcher><order>10</order><section display_value="My Issues">6265f462db5f73002c099d62ba9619db</section><sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name><sys_created_by>marc.mouries</sys_created_by><sys_created_on>2019-08-19 02:30:10</sys_created_on><sys_id>2e45bc22db5f73002c099d62ba961900</sys_id><sys_mod_count>1</sys_mod_count><sys_name/><sys_package display_value="Safety" source="x_367394_safety">c5f0f3b8db8333002c099d62ba961907</sys_package><sys_policy/><sys_scope display_value="Safety">c5f0f3b8db8333002c099d62ba961907</sys_scope><sys_update_name>sys_sg_applet_launcher_m2m_section_2e45bc22db5f73002c099d62ba961900</sys_update_name><sys_updated_by>marc.mouries</sys_updated_by><sys_updated_on>2019-08-19 02:46:45</sys_updated_on></sys_sg_applet_launcher_m2m_section></record_update>]]></payload>
+        <payload_hash>-576936248</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>c9f0f3b8db8333002c099d62ba961909</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>marc.mouries</sys_created_by>
+        <sys_created_on>2019-08-19 02:46:45</sys_created_on>
+        <sys_id>e259b866db5f73002c099d62ba96195d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ca7c510770000001</sys_recorded_at>
+        <sys_updated_by>marc.mouries</sys_updated_by>
+        <sys_updated_on>2019-08-19 02:46:45</sys_updated_on>
+        <type>Applet Launcher Sections</type>
+        <update_guid>6e59b866e35f73009a1033a245350d5c</update_guid>
+        <update_guid_history>6e59b866e35f73009a1033a245350d5c:-576936248,f385b062705f7300d4e849acd493c0dd:1582239450</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>marc.mouries</sys_created_by>
+        <sys_created_on>2019-08-19 02:47:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_applet_launcher_m2m_section">sys_sg_applet_launcher_m2m_section</sys_db_object>
+        <sys_id>17d707a7e774427b8381cb37d2c505d1</sys_id>
+        <sys_metadata>2e45bc22db5f73002c099d62ba961900</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Safety" source="x_367394_safety">c5f0f3b8db8333002c099d62ba961907</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Safety">c5f0f3b8db8333002c099d62ba961907</sys_scope>
+        <sys_scope_delete display_value="">0ba70b217eef45498122021351c5bd51</sys_scope_delete>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_2e45bc22db5f73002c099d62ba961900</sys_update_name>
+        <sys_update_version display_value="sys_sg_applet_launcher_m2m_section_2e45bc22db5f73002c099d62ba961900">e259b866db5f73002c099d62ba96195d</sys_update_version>
+        <sys_updated_by>marc.mouries</sys_updated_by>
+        <sys_updated_on>2019-08-19 02:47:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

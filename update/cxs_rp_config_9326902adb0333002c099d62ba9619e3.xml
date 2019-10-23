@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cxs_rp_config">
+    <cxs_rp_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <allow_expand_collapse>true</allow_expand_collapse>
+        <cxs_context_config display_value="Safety Issue Deflection">27c154e2db0333002c099d62ba9619cf</cxs_context_config>
+        <limit>10</limit>
+        <name>Report a Safety Issue</name>
+        <results_header_text>Knowledge results</results_header_text>
+        <results_per_page>10</results_per_page>
+        <sc_cat_item display_value="Report a Safety Issue">46a7c445db0733002c099d62ba96190b</sc_cat_item>
+        <search_variable display_value="Short description">9aa74809db0733002c099d62ba961973</search_variable>
+        <sys_class_name>cxs_rp_config</sys_class_name>
+        <sys_created_by>marc.mouries</sys_created_by>
+        <sys_created_on>2019-08-06 14:00:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9326902adb0333002c099d62ba9619e3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Report a Safety Issue</sys_name>
+        <sys_package display_value="Safety" source="x_367394_safety">c5f0f3b8db8333002c099d62ba961907</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">c5f0f3b8db8333002c099d62ba961907</sys_scope>
+        <sys_update_name>cxs_rp_config_9326902adb0333002c099d62ba9619e3</sys_update_name>
+        <sys_updated_by>marc.mouries</sys_updated_by>
+        <sys_updated_on>2019-08-06 14:00:07</sys_updated_on>
+    </cxs_rp_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=9326902adb0333002c099d62ba9619e3"/>
+</record_update>

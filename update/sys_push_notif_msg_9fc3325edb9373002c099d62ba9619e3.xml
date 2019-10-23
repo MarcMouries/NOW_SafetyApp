@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_msg">
+    <sys_push_notif_msg action="INSERT_OR_UPDATE">
+        <message_string>message</message_string>
+        <name>Safety Issue Assigned</name>
+        <push_app display_value="ServiceNow Mobile Application">05ed2fb177002300258da2e2c81061c2</push_app>
+        <push_message_content display_value="Open current record - no button">75d53292dbd373002c099d62ba96194b</push_message_content>
+        <subject/>
+        <sys_class_name>sys_push_notif_msg</sys_class_name>
+        <sys_created_by>marc.mouries</sys_created_by>
+        <sys_created_on>2019-08-18 17:03:54</sys_created_on>
+        <sys_id>9fc3325edb9373002c099d62ba9619e3</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Safety Issue Assigned</sys_name>
+        <sys_package display_value="Safety" source="x_367394_safety">c5f0f3b8db8333002c099d62ba961907</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">c5f0f3b8db8333002c099d62ba961907</sys_scope>
+        <sys_update_name>sys_push_notif_msg_9fc3325edb9373002c099d62ba9619e3</sys_update_name>
+        <sys_updated_by>marc.mouries</sys_updated_by>
+        <sys_updated_on>2019-08-18 17:20:59</sys_updated_on>
+        <table>x_367394_safety_issue</table>
+        <type>push</type>
+    </sys_push_notif_msg>
+</record_update>
